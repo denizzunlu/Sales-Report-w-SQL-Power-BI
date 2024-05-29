@@ -8,7 +8,6 @@ Bu proje, satış performansını izlemek için bir çözüm sunar. Statik rapor
 
 
 
-
 ## Problemin Tanımı
 
 Şirket, satış verilerini daha etkili bir şekilde yönlendirmek için satış performansını daha iyi görselleştirmek istiyor. İş problemi aşağıdaki unsurları içerir:
